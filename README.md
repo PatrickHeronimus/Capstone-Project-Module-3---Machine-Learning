@@ -1,4 +1,4 @@
-# Purwadhika-Data-Science-Project
+# Capstone Project Module 3 - Machine Learning
 
 ## `Background`
 
